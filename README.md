@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
    
 Full Stack Developer and Native App Developer
----------------------------------------------
+-----------------------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [krishnapatil.work@gmail.com](mailto:krishnapatil.work@gmail.com)
