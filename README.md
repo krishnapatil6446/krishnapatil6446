@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Native App Developer
 -----------------------------------------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [krishnapatil.work@gmail.com](mailto:krishnapatil.work@gmail.com) or I'm mostly active on X so shoot a direct dm.
+* 🌍  I'm based in India.
+* ✉️  You can contact me at [krishnapatil.work@gmail.com](mailto:krishnapatil.work@gmail.com) or shoot a direct dm on X.
 * 🧠  I'm learning ReactNative.
 * 🤝  I'm open to collaborating on Any Proejcts.
 
